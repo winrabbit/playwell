@@ -14,6 +14,13 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "monolog/monolog": "^1.17"
+        "monolog/monolog": "^1.17",
+        "pimple/pimple": "^3.0",
+        "nikic/fast-route": "^0.7.0",
+        "vlucas/phpdotenv": "~2.2"
+    },
+    "require-dev": {
+        "fzaninotto/faker": "~1.4",
+        "phpunit/phpunit": "~4.0"
     }
 }
