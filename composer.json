@@ -23,5 +23,6 @@
         "fzaninotto/faker": "~1.4",
         "phpunit/phpunit": "~4.0",
         "squizlabs/php_codesniffer": "^2.5"
-    }
+    },
+    "preferred-install": "stable"
 }
