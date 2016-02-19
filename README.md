@@ -13,7 +13,7 @@ Playewll is a stunningly fast PHP micro-framework for building web applications 
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Jun wang at jun@heisoo.com. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Playwell, please send an e-mail to Jun wang at jun@heisoo.com. All security vulnerabilities will be promptly addressed.
 
 ## License
 
