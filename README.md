@@ -1,4 +1,4 @@
-# Lumen PHP Framework
+# Playwell PHP Framework
 
 <!--
 [![Build Status](https://travis-ci.org/slimphp/Slim.svg?branch=develop)](https://travis-ci.org/slimphp/Slim)
