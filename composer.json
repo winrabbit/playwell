@@ -1,7 +1,8 @@
 {
-    "name": "playwell",
-    "version": "1.0.0",
+    "name": "winrabbit/playwell",
+    "type": "project",
     "description": "A Happy Framework skeleton application for rapid development",
+    "keywords":["framework", "playwell"],
     "homepage": "http://github.com/winrabbit/playwell",
     "license": "MIT",
     "authors": [
